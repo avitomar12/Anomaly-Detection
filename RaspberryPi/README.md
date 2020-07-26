@@ -15,4 +15,4 @@ reading_sensor.py - Read the data from the sensor and store them in reading.txt 
 
 A sample of reading 
 
-<img src = "/images/screenshot.png">
+<img src = "./images/screenshot.png">
