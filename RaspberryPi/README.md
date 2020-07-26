@@ -13,4 +13,6 @@ graph_plot.py - Plot the reading of sensor data in 2d plane to get a better visu
 reading_sensor.py - Read the data from the sensor and store them in reading.txt file.
 
 
+A sample of reading 
 
+<img src = "/images/screenshot.png">

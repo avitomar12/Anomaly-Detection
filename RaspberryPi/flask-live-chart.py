@@ -1,8 +1,8 @@
 import json
 from time import time
-from random import random
+from random import randrange
 from flask import Flask, render_template, make_response
-import operate as op
+#import operate as op
 
 app = Flask(__name__)
 
